@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Nombre alumno: Tomas Alvarez Arzuaga<br>Nombre profesor: Sebastian Claudio Cardenas<br>Programa elegido a desarrollar: Task List<br>Fecha de entrega limite: 22/6 23:59hs</p>
+<p align="left">Nombre alumno: Tomas Alvarez Arzuaga<br>Nombre profesor: Sebastian Claudio Cardenas<br>Programa elegido a desarrollar: Task List<br>Fecha de entrega limite: 22/6 23:59hs<br>Aclaracion: El nuevo archivo es el .rar ya que no me permitia subir la carpeta completa</p>
 
 ###
 
@@ -32,7 +32,8 @@
 
 
 
-https://github.com/TomyAlv/TaskList/assets/107062801/b2a197bb-14e7-4fd1-9561-8142cb165fc5
+
+https://github.com/TomyAlv/TaskList/assets/107062801/968696aa-d9fa-424b-ad1d-43cb4b5054e0
 
 
 
